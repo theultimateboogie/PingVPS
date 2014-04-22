@@ -1,0 +1,9 @@
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\PingVPS.exe
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\PingVPS.pdb
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\PingVPS.xml
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\PingVPS.Form1.resources
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\PingVPS.Resources.resources
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\PingVPS.exe
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\PingVPS.xml
+C:\Users\LarBob\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\PingVPS.pdb
